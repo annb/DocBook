@@ -1,0 +1,8 @@
+http://docbook.sourceforge.net/release/xsl/1.76.1/ -W -O "/home/annb/websites/DocBook" -%v
+File generated automatically on Fri, 13 Nov 2015 09:09:10, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
